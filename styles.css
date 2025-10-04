@@ -387,7 +387,7 @@ header {
 .impact-stats-section {
     padding: 80px 0;
     background: linear-gradient(135deg, #7fb3b3 0%, #9db5b5 50%, #c4985a 100%);
-    background-image: url('../fotos/grupo.jpg');
+    background-image: url('fotos/grupo.jpg');
     background-size: cover;
     background-position: center;
     background-blend-mode: overlay;
